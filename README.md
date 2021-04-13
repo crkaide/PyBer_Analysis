@@ -14,13 +14,10 @@ Results: Using images from the summary DataFrame and multiple-line chart, descri
 
 
 ***Summary DataFrame***
-
-
-
-
+![https://github.com/crkaide/PyBer_Analysis/blob/main/analysis/summary_dataframe.png?raw=true](https://github.com/crkaide/PyBer_Analysis/blob/main/analysis/summary_dataframe.png?raw=true)
 
 ***PyBer Fare Summary***
-
+![https://github.com/crkaide/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true](https://github.com/crkaide/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
 
 
 
