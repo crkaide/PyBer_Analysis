@@ -32,7 +32,7 @@ The summary DataFrame and PyBer Fare Summary line graph above make clear a numbe
 
 * While rural drivers handle far less of PyBer's total business ($4,327.93 of $63,538.64 total) than suburban or urban, the rural fare per ride is significantly higher ($36.62, against $24.53 for urban).
 
-* Even more dramatically, the average fare per driver is $16.57 in urban cities against $55.49 in rural (accounted for, most likely, by the simple proximity of locations in the city vs. the country).
+* Even more dramatically, the average fare per driver is $16.57 in urban cities against $55.49 in rural (I speculate that this may be primarly accounted for by the simple proximity of locations in urban vs. non-urban environments).
 
 ### Recommendations
 
