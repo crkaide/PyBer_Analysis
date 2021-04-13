@@ -36,6 +36,6 @@ The summary DataFrame and PyBer Fare Summary line graph above make clear a numbe
 
 ### Recommendations
 
-1. 
-2. Rec two
-3. Rec three
+1. The figures in the summary DataFrame suggest that while rural rides might be more "valuable" per capita, urban drivers are shouldering the bulk of PyBer's business.  This crucial group of drivers is also least well-compensated.  If data is available, I recommend analyzing driver/employee retention for each of these city types, in light of the fare (and consequent gratuity) disparities.  Regardless of add'l analysis, PyBer might consider implementing policies aimed at bolstering driver security and compensation (ex: minimum fares, automatically applied minimum gratuities).
+2. Rural drivers are giving the most expensive rides, most likely due to distance traveled per ride (another element I would recommend analyzing, if data is available).  While PyBer policies directed at increasing a fare's value for its urban drivers would be most beneficial in those cases, rural and suburban drivers may best be retained by company measures that offset damage/wear-and-tear/fuel consumption due to distance driven.
+3. While this analysis appears exhaustive and clearly highlights disparities, it seeks to address neither the underlying causes of those disparities, nor the effects they have on driver retention or their behavior over more than a single season (a notable limitation of the original dataset).  Therefore I recommend expanding the analysis to include data from a longer time span (one year/cycle minimum, three ideal).  I would also directly survey PyBer drivers in urban areas to assess what supports the company might provide to offset the per-driver disparity in fares.
