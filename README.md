@@ -6,9 +6,9 @@
 
 The primary purpose of this report is to provide follow-up analysis to PyBer regarding ride-sharing data presented to CEO V. Isualize.  Information already presented includes scatter-plot visualization of city types, fares, and rides; high-level statistics summaries (both tables and box-and-whisker plots); and share-by-city-type of fares and drivers.
 
-Following the initial presentation, the CEO requested a written report addressing data represented on a line graph of weekly fares by city type.
+Following the initial presentation, the CEO requested a written report addressing a line graph representing weekly fares by city type.
 
-Although the initial analysis was thorough, the presentation did not address any of the data from a longitudinal perspective, and recommendations were not therefore informed by trends.  This follow-up addendum closes that gap.
+Although the initial analysis was thorough, the presentation did not address the data from a longitudinal perspective, and recommendations were therefore informed by trends.  The following graph closes that gap.
 
 ## Results
 
