@@ -8,7 +8,7 @@ The primary purpose of this report is to provide follow-up analysis to my employ
 
 Following the initial presentation, the CEO requested a written report addressing data represented on a line graph of weekly fares by city type.
 
-Although the initial analysis was thorough, the presentation did not address any of the data from a longitudinal perspective, and recommendations were not therefore informed by trends.  This follow-up addendum closes that gap
+Although the initial analysis was thorough, the presentation did not address any of the data from a longitudinal perspective, and recommendations were not therefore informed by trends.  This follow-up addendum closes that gap.
 
 ## Results
 
@@ -21,6 +21,13 @@ Although the initial analysis was thorough, the presentation did not address any
 ![https://github.com/crkaide/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true](https://github.com/crkaide/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
 
 ### Differences
+
+***Differences in ride-sharing data among different city types***
+The summary DataFrame and PyBer Fare Summary line graph above make clear a number of differences in the way ride-sharing is utilized, compensated, and valued between city types (rural, suburban, and urban).
+* While urban drivers comprise 81% of the total workforce, they are responsible for only 68% of the total rides given.
+* As expected from the above, the both average fare per ride and average fare per driver were substantially lower for urban drivers than either suburban or rural.  
+
+
 
 
 
