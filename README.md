@@ -12,6 +12,19 @@ Overview of the analysis: Explain the purpose of the new analysis.
 
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+
+***Summary DataFrame***
+
+
+
+
+
+***PyBer Fare Summary***
+
+
+
+
+
 ### Differences
 
 
