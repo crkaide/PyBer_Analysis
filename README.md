@@ -8,7 +8,7 @@ The primary purpose of this report is to provide follow-up analysis to PyBer reg
 
 Following the initial presentation, the CEO requested a written report addressing a line graph representing weekly fares by city type.
 
-Although the initial analysis was thorough, the presentation did not address the data from a longitudinal perspective, and recommendations were therefore informed by trends.  The following graph closes that gap.
+Although the initial analysis was thorough, the presentation did not address the data from a longitudinal perspective, and recommendations were therefore not informed by trends.  The following graph closes that gap.
 
 ## Results
 
