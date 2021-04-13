@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The primary purpose of this report is to provide follow-up analysis to my employer, PyBer, regarding ride-sharing data presented to CEO V. Isualize.  Information already presented includes scatter-plot visualization of city types, fares, and rides; high-level statistics summaries (both tables and box-and-whisker plots); and share by city type of fares and drivers.
+The primary purpose of this report is to provide follow-up analysis to PyBer regarding ride-sharing data presented to CEO V. Isualize.  Information already presented includes scatter-plot visualization of city types, fares, and rides; high-level statistics summaries (both tables and box-and-whisker plots); and share by city type of fares and drivers.
 
 Following the initial presentation, the CEO requested a written report addressing data represented on a line graph of weekly fares by city type.
 
