@@ -1,6 +1,6 @@
 # PyBer Analysis
 
-## Overview of the analysis
+## Overview
 
 ### Purpose
 
@@ -23,14 +23,19 @@ Although the initial analysis was thorough, the presentation did not address any
 ### Differences
 
 ***Differences in ride-sharing data among different city types***
+
 The summary DataFrame and PyBer Fare Summary line graph above make clear a number of differences in the way ride-sharing is utilized, compensated, and valued between city types (rural, suburban, and urban).
+
 * While urban drivers comprise 81% of the total workforce, they are responsible for only 68% of the total rides given.
+
 * Following from the above, the average fare per ride and average fare per driver were substantially lower for urban drivers than either suburban or rural, but the real story is told in the disparities between city types regarding total workload versus compensation/perceived value.
+
 * While rural drivers handle far less of the total share of business _($4,327.93 of $63,538.64 total)_ than suburban or urban, the rural fare per ride is significantly higher ($36.62, against $24.53 for urban).
+
 * Even more dramatically, the average fare per driver is $16.57 in urban cities against $55.49 in rural (accounted for, most likely, by the simple proximity of locations in the city vs. the country).
 
 ### Recommendations
 
-1. Rec three
+1. 
 2. Rec two
 3. Rec three
